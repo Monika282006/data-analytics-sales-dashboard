@@ -85,11 +85,10 @@ Shows the profitability of sales as a percentage.
 
 The dashboard contains the following visualizations:
 
-1. Monthly Sales Trend
-2. Sales by Product Category
-3. Sales by Region
-4. Profit by Sales Representative
-5. Sales by Sales Channel
+1. Sales by Product Category
+2. Sales by Region
+3. Profit by Sales Representative
+4. Sales by Sales Channel
 
 ## Key Insights
 
