@@ -1,4 +1,4 @@
-# data-analytics-sales-dashboard
+# Task 3 - Dashboard Design
 Data Analytics project containing sales data, Power BI dashboard, visualizations, screenshots, and presentation.
 # Data Analytics – Sales Dashboard
 
