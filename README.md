@@ -9,14 +9,10 @@ This project focuses on analyzing sales data and developing an interactive sales
 The project demonstrates the data analytics process, including data preparation, analysis, visualization, dashboard development, and presentation of business insights.
 
 ### Dashboard Preview
+https://github.com/Monika282006/data-analytics-sales-dashboard/blob/main/Sales_Dashboard_%20Screenshot.png
 
-## Dashboard Preview
-
-[![Sales Dashboard](Sales_Dashboard_Screenshot.png)](Sales_Dashboard_Screenshot.png)
-
-[View Dashboard Screenshot](Sales_Dashboard_Screenshot.png)
-## Objectives
-
+## Objectives](https://github.com/Monika282006/data-analytics-sales-dashboard/blob/main/Sales_Dashboard_%20Screenshot.png)
+](https://github.com/Monika282006/data-analytics-sales-dashboard/blob/main/Sales_Dashboard_%20Screenshot.png)
 - To analyze the given sales dataset.
 - To clean and prepare the data for analysis.
 - To calculate important sales and profitability metrics.
