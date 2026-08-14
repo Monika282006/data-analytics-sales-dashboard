@@ -10,7 +10,7 @@ The project demonstrates the data analytics process, including data preparation,
 
 ### Dashboard Preview
 
-![Sales Dashboard](Sales_Dashboard_Screenshot.png)
+[![Sales Dashboard](Sales_Dashboard_Screenshot.png)](Sales_Dashboard_Screenshot.png)
 
 ## Objectives
 
