@@ -11,8 +11,7 @@ The project demonstrates the data analytics process, including data preparation,
 ### Dashboard Preview
 https://github.com/Monika282006/data-analytics-sales-dashboard/blob/main/Sales_Dashboard_%20Screenshot.png
 
-## Objectives](https://github.com/Monika282006/data-analytics-sales-dashboard/blob/main/Sales_Dashboard_%20Screenshot.png)
-](https://github.com/Monika282006/data-analytics-sales-dashboard/blob/main/Sales_Dashboard_%20Screenshot.png)
+## Objectives
 - To analyze the given sales dataset.
 - To clean and prepare the data for analysis.
 - To calculate important sales and profitability metrics.
